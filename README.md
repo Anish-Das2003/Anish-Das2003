@@ -7,22 +7,38 @@
 
   
 ### Connect with me:
-<div id="badges">
-  <a href="https://github.com/Anish-Das2003">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+
+
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+<a href="" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  
-   <a href="https://www.linkedin.com/in/anish-das-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaG0ZTuz%2BS7WshnezW8ttyQ%3D%3D">
-    <img src="https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png" alt="Linkwdin Badge"/>
+  <a href="https://www.linkedin.com/in/anish-das-" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-   
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://youtube.com/@dynamic.TechWorld" target="_blank" rel="noreferrer noopener" title="YouTube" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" height="35" width="35" style="vertical-align: middle;"/>
   </a>
+  <a href="https://instagram.com/dynamictech.world/Q" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://facebook.com/profile.php?id=61551941882718" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+</p>
 </div>
 
+
+  
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
