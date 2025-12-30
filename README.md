@@ -8,18 +8,14 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/Anish-Das2003">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  
+   <a href="https://www.linkedin.com/in/anish-das-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaG0ZTuz%2BS7WshnezW8ttyQ%3D%3D">
+    <img src="https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png" alt="Linkwdin Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+   
    <a href="https://twitter.com/axiftaj">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
