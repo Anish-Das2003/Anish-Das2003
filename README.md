@@ -2,7 +2,7 @@
   
 <h1 align="center">Hi 👋, I'm Anish Das!</h1>
 
-<h3 align="center">3rd Year Undergraduate Student in Metallurgical and Materials Engineering at Nit Jamshedpur </h3>
+<h3 align="center">Final Year Undergraduate Student in Metallurgical and Materials Engineering at Nit Jamshedpur </h3>
 
 <h3 align="left">More About Me:</h3>
 
